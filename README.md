@@ -12,3 +12,4 @@ Dependencies added till now
 6. h2database
 7. mysql-connector-j
 8. lombok
+9. thymeleaf
